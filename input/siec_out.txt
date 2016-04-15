@@ -1,0 +1,16 @@
+# cost of solution
+cost = 4
+ 
+# number of requests
+REQUESTS = 2
+# every Request is id. of request and set of used links
+1 1 2 
+2 2 
+ 
+# number of links
+links = 5
+# every Link is: id, number of used modules
+1 1
+2 1
+5 1
+# links that are not used are not seen

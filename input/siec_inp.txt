@@ -1,0 +1,21 @@
+# number of nodes
+NODES = 6
+
+# number of links
+LINKS = 8
+# Every link is id, start Node, end Node, capacity of module, cost
+1 1 2 4.0 2.0
+2 2 3 2.0 1.0
+3 3 6 1.0 4.0
+4 4 6 1.0 1.0
+5 5 4 4.0 1.0
+6 4 1 5.0 3.0
+7 1 6 5.0 2.0
+8 5 1 1.0 3.0
+
+#number of requests
+REQUESTS = 3
+# every Request is four(id,start Node, end Node, required capicity)
+1 1 3 2.0
+2 5 2 2.0
+3 4 6 2.0
