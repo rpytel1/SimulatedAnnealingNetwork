@@ -73,7 +73,7 @@ namespace SimpleAnnealingGraph
                     line = read.ReadLine();
                 }
                 words = line.Split(' ');
-                if (words[0] == "links") LinkNumber = int.Parse(words[2]);
+                if (words[0] == "LINKS") LinkNumber = int.Parse(words[2]);
                 links = new Link[LinkNumber + 1]; //ZERO LINK IS EMPTY
                 links[0] = null;
                 line = read.ReadLine(); //READ ONE LINE WITH #
