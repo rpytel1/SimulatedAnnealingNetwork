@@ -1,0 +1,5 @@
+C:\Users\Rafal\Desktop\Programowanie\SimpleAnnealingGraph\SimpleAnnealingGraph\bin\Debug\SimpleAnnealingGraph.exe.config
+C:\Users\Rafal\Desktop\Programowanie\SimpleAnnealingGraph\SimpleAnnealingGraph\bin\Debug\SimpleAnnealingGraph.exe
+C:\Users\Rafal\Desktop\Programowanie\SimpleAnnealingGraph\SimpleAnnealingGraph\bin\Debug\SimpleAnnealingGraph.pdb
+C:\Users\Rafal\Desktop\Programowanie\SimpleAnnealingGraph\SimpleAnnealingGraph\obj\Debug\SimpleAnnealingGraph.exe
+C:\Users\Rafal\Desktop\Programowanie\SimpleAnnealingGraph\SimpleAnnealingGraph\obj\Debug\SimpleAnnealingGraph.pdb
